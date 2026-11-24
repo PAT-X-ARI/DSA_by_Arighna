@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0940-fruit-into-baskets) |
 | [1477-product-of-the-last-k-numbers](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/1477-product-of-the-last-k-numbers) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0940-fruit-into-baskets) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
 ## String
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/1477-product-of-the-last-k-numbers) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Design
 |  |
 | ------- |
@@ -36,4 +39,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
