@@ -47,4 +47,20 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3702-maximum-subarray-with-equal-products](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/3702-maximum-subarray-with-equal-products) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0094-binary-tree-inorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/PAT-X-ARI/DSA_by_Arighna/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
